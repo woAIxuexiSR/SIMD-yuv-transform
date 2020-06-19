@@ -1,7 +1,6 @@
-PKU architecture lab
+#PKU architecture lab
 
-use basic ISA, MMX, SSE2, AVX
-transform YUV image
+#use basic ISA, MMX, SSE2, AVX
+#transform YUV image
 
-报告中的溢出问题已修复
------------------------
+#报告中的溢出问题已修复
