@@ -2,3 +2,5 @@ PKU architecture lab
 
 use basic ISA, MMX, SSE2, AVX
 transform YUV image
+
+报告中的溢出问题已修复
